@@ -1,0 +1,14 @@
+1. Create Database with necessary fields(like: "shorturl", "realurl",)
+2. Find a way to make your shorturl's unique
+3. Create a form that accepts the url i.e, the frontend application
+4. Find a way to redirect users to the intended url from your backend application
+    This would be done in such a way that when the user makes a request(clicks on the shortened url you generated from wherever) to your backend
+    using the shortened url, you redirect them to the intended url.
+
+Stack:
+Next.js
+TailwindCSS
+React Spring
+Typescript
+Node/Express.js
+MongoDB
