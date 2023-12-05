@@ -8,7 +8,7 @@
 Stack:
 React.js
 TailwindCSS
-React Spring/GSAP
+React Spring/GSAP/Framer-Motion
 Typescript
 Node/Express.js
 MongoDB
