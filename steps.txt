@@ -6,9 +6,9 @@
     using the shortened url, you redirect them to the intended url.
 
 Stack:
-Next.js
+React.js
 TailwindCSS
-React Spring
+React Spring/GSAP
 Typescript
 Node/Express.js
 MongoDB
